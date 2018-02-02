@@ -1,0 +1,10 @@
+Santa's_Hat	5	1	200	5
+Theca_Leather_Armor	10	2	350	10
+Blue_Wolf	25	3	450	25
+Avadon	50	4	600	35
+Doom	50	4	750	37
+Tallum	70	5	900	45
+Draconic_Leather_Armor	150	6	1100	45
+Imperial_Crusader	150	6	1200	55
+Major_Arcana	150	6	1000	40
+Apella_Plate_Armor	250	7	1450	75

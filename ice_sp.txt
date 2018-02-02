@@ -1,0 +1,10 @@
+Power_Strike	10	1	2	5	5	1	2
+Wild_Sweep	15	2	3	7	6	2	3
+Fatal_Strike	20	3	5	10	8	3	2
+Thunder_Storm	30	4	7	15	10	2	5
+Focus_Mind	50	5	10	22	12	1	6
+Vampiric_Touch	70	6	15	30	16	1	2
+Wind_Strike	100	7	20	40	20	4	3
+Ice_Bolt	120	8	30	50	24	3	1
+Hydro_Blast	160	9	35	60	30	2	7
+Ice_Vortex	200	10	40	70	40	5	5
